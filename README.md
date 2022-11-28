@@ -1,2 +1,1 @@
-# czopendata
-Open data Czech Republic
+# Open data Czech Republic
